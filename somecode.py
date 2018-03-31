@@ -6,8 +6,10 @@
 def main():
     pass
 
-class somethingelse(var1):
-    pass
+class somethingelse():
+    '''added a comment here'''
+    def __init__(self, data):
+        pass
 
 
 main()
