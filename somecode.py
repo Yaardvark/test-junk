@@ -22,5 +22,4 @@ class anotherclass:
     pass
     # stubbed out, but necessary
 
-
 main()
