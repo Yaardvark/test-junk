@@ -6,8 +6,15 @@
 def main():
     pass
 
-class somethingelse(var1):
+def ReadData(xstream):
     pass
+    # read in data from file handle
+
+class somethingelse():
+    '''added a comment here'''
+    def __init__(self, data):
+        self.id = data['id']
+        self.date = data['date']
 
 
 main()
